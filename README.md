@@ -40,7 +40,7 @@ I decided to take a look at existing templates to get inspiration.
 
 ## Web Page
 
-go to https://seppeverhavert.github.io/guerrilla/.
+https://seppeverhavert.github.io/guerrilla/.
 
 Here you can find the most up-to-date version of the web-page.
 
