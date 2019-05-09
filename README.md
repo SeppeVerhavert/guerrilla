@@ -32,7 +32,14 @@ The website I had to improve can be found here:
 https://bormshuis.wordpress.com/
 
 It is a site from a small museum in Merksem.
-The site is unclear and the home page is way too long.
+Problems I wanted to fix:
+
+    -   Unclear navigation
+    -   first page is too long
+    -   too many navigation tabs
+    -   bad pictures
+    -   too much text
+    -   font is too small
 
 I decided to take a look at existing templates to get inspiration.
 I ended up at **html5 UP** and started from a template.
