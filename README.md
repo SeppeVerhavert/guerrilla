@@ -11,11 +11,17 @@ Feel free to do this excercise however you want.
 So use a template, a framework, write it from the ground up. We don't care, but have a site ready by the end of the day.
 
 TLDR;   - make a web page
+
         - time is 8 hours
+
         - has to be more clear than current site
+
         - add responsiveness
+
         - use whatever tools you deem necessary
+
         - have the site ready at the end of the day
+
 
 ## Getting started
 
