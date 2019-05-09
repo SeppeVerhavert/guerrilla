@@ -38,14 +38,14 @@ Problems I wanted to fix:
 
 I decided to take a look at existing templates to get inspiration.
 
-## Credit where credit is due
-
-I ended up at **html5 UP** and started from a template.
-
-*source:* https://html5up.net/escape-velocity
-
 ## Web Page
 
 go to https://seppeverhavert.github.io/guerrilla/.
 
 Here you can find the most up-to-date version of the web-page.
+
+## Credit where credit is due
+
+I ended up at **html5 UP** and started from a template.
+
+*source:* https://html5up.net/
