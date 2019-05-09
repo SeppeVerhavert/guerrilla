@@ -2253,7 +2253,7 @@ input, select, textarea {
 
 .toespraak-tekst {
 	font-size: 1.2em;
-	width: 48em;
+	width: auto;
 	margin: 0 auto;
 }
 
