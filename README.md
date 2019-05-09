@@ -10,17 +10,19 @@ And don't forget to make it responsive ;)
 Feel free to do this excercise however you want. 
 So use a template, a framework, write it from the ground up. We don't care, but have a site ready by the end of the day.
 
-TLDR;   - make a web page
+TLDR;   
+        
+    - make a web page
 
-        - time is 8 hours
+    - available time is 8 hours
 
-        - has to be more clear than current site
+    - has to be more clear than current site
 
-        - add responsiveness
+    - add responsiveness
 
-        - use whatever tools you deem necessary
+    - use whatever tools you deem necessary
 
-        - have the site ready at the end of the day
+    - have the site ready at the end of the day
 
 
 ## Getting started
@@ -35,7 +37,7 @@ The site is unclear and the home page is way too long.
 I decided to take a look at existing templates to get inspiration.
 I ended up at **html5 UP** and started from a template.
 
-*source:*https://html5up.net/escape-velocity
+*source:* https://html5up.net/escape-velocity
 
 ## Final Web Page
 
