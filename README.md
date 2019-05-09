@@ -13,15 +13,10 @@ So use a template, a framework, write it from the ground up. We don't care, but 
 TLDR;   
         
     - make a web page
-
     - available time is 8 hours
-
     - has to be more clear than current site
-
     - add responsiveness
-
     - use whatever tools you deem necessary
-
     - have the site ready at the end of the day
 
 
@@ -42,16 +37,15 @@ Problems I wanted to fix:
     -   font is too small
 
 I decided to take a look at existing templates to get inspiration.
+
+## Credit where credit is due
+
 I ended up at **html5 UP** and started from a template.
 
 *source:* https://html5up.net/escape-velocity
 
-## Final Web Page
+## Web Page
 
 go to https://seppeverhavert.github.io/guerrilla/.
 
 Here you can find the most up-to-date version of the web-page.
-
-
-
-https://seppeverhavert.github.io/guerrilla/
