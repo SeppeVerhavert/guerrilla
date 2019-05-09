@@ -1458,7 +1458,7 @@ input, select, textarea {
 		}
 
 		header.style1 p {
-			color: #b1b4b9;
+			color: #F2F2F2;
 			display: block;
 			margin: 1.15em 0 0 0;
 			font-size: 1.3em;
@@ -1627,7 +1627,7 @@ input, select, textarea {
 		-ms-transition: all .25s ease-in-out;
 		transition: all .25s ease-in-out;
 		display: inline-block;
-		background: #444;
+		background: #222026;
 		text-align: center;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -1649,7 +1649,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #f98780;
+			background-color: #F29B30;
 		}
 
 		input[type="button"].large,
@@ -1666,7 +1666,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background:#F29B30 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1675,7 +1675,7 @@ input, select, textarea {
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #f98780;
+				background-color:#F29B30;
 			}
 
 			input[type="button"].style1:active,
@@ -1683,7 +1683,7 @@ input, select, textarea {
 			input[type="reset"].style1:active,
 			button.style1:active,
 			.button.style1:active {
-				background-color: #d96760;
+				background-color: #F29B30;
 			}
 
 		input[type="button"].style2,
@@ -1692,8 +1692,8 @@ input, select, textarea {
 		button.style2,
 		.button.style2 {
 			background: none;
-			color: #606167;
-			box-shadow: inset 0px 0px 2px 0px #a0a1a7;
+			color: #222026;
+			box-shadow: inset 0px 0px 2px 0px#222026;
 		}
 
 			input[type="button"].style2:hover,
@@ -1701,7 +1701,7 @@ input, select, textarea {
 			input[type="reset"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				box-shadow: inset 0px 0px 2px 0px #606167;
+				box-shadow: inset 0px 0px 2px 0px #222026;
 			}
 
 			input[type="button"].style2:active,
@@ -1709,7 +1709,7 @@ input, select, textarea {
 			input[type="reset"].style2:active,
 			button.style2:active,
 			.button.style2:active {
-				box-shadow: inset 0px 0px 2px 0px #202127;
+				box-shadow: inset 0px 0px 2px 0px#222026;
 			}
 
 		input[type="button"].style3,
@@ -1717,7 +1717,7 @@ input, select, textarea {
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
+			background: #222026 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1726,7 +1726,7 @@ input, select, textarea {
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background-color: #3f434b;
+				background-color: #222026;
 			}
 
 			input[type="button"].style3:active,
@@ -1734,7 +1734,7 @@ input, select, textarea {
 			input[type="reset"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #1f232b;
+				background-color: #222026;
 			}
 
 /* List */
@@ -1754,7 +1754,7 @@ input, select, textarea {
 		}
 
 			ul.style2 li {
-				border-top: solid 1px #eee;
+				border-top: solid 1px#F2F2F2;
 				padding: 1.5em 0 0 0;
 				margin: 1.5em 0 0 0;
 			}
@@ -1771,7 +1771,7 @@ input, select, textarea {
 		}
 
 			ul.style3 li {
-				border-top: solid 1px #eee;
+				border-top: solid 1px rgb(0, 0, 0);
 				padding: 0.5em 0 0 0;
 				margin: 0.5em 0 0 0;
 			}
@@ -1828,7 +1828,7 @@ input, select, textarea {
 	}
 
 		.feature-list section {
-			border-top: solid 1px #eee;
+			border-top: solid 1px #F2F2F2;
 			padding-top: 3em;
 			padding-left: 5em;
 			position: relative;
@@ -1844,7 +1844,7 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #e97770 !important;
+			color: #F29B30 !important;
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
@@ -1852,8 +1852,8 @@ input, select, textarea {
 
 			.feature-list h3:before {
 				display: block;
-				color: #fff;
-				background: #2f333b url("images/overlay.png");
+				color: #F2F2F2;
+				background: #222026 url("images/overlay.png");
 				border-radius: 2.5em;
 				text-align: center;
 				width: 2.5em;
@@ -1982,35 +1982,35 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background:#F29B30 url("images/overlay.png");
-			color: #eee;
+			color: #F2F2F2;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
 				background: #F29B30 url("images/overlay.png");
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 		.wrapper.style2 {
-			background: #fff;
+			background: #F2F2F2;
 		}
 
 			.wrapper.style2 .title {
-				background: #fff;
-				color: #484d55;
+				background: #F2F2F2;
+				color: #222026;
 			}
 
 		.wrapper.style3 {
-			background: #f3f3f3 url("images/overlay.png");
+			background: #dad9d9 url("images/overlay.png");
 		}
 
 			.wrapper.style3 .title {
-				background: #f3f3f3 url("images/overlay.png");
-				color: #484d55;
+				background: #dad9d9 url("images/overlay.png");
+				color: #222026;
 			}
 
 			.wrapper.style3 .image {
@@ -2071,13 +2071,13 @@ input, select, textarea {
 		#logo h1 {
 			font-weight: 900;
 			text-transform: uppercase;
-			color: #fff;
+			color: #f2f2f2;
 			font-size: 2em;
 			letter-spacing: 0.25em;
 		}
 
 		#logo p {
-			color: #eee;
+			color: #f2f2f2;
 			color: rgba(255, 255, 255, 0.5);
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
@@ -2116,7 +2116,7 @@ input, select, textarea {
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: #eee;
+					color: #f2f2f2;
 					color: rgba(255, 255, 255, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
@@ -2133,15 +2133,15 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a {
-					color: #fff;
+					color: #f2f2f2;
 				}
 
 				#nav > ul > li.active > a, #nav > ul > li.active > span {
-					color: #fff;
+					color: #f2f2f2;
 				}
 
 	.dropotron {
-		background: #222835 url("images/overlay.png");
+		background: #222026 url("images/overlay.png");
 		background-color: rgba(44, 50, 63, 0.925);
 		padding: 1.25em 1em 1.25em 1em;
 		border-radius: 0.35em;
@@ -2166,7 +2166,7 @@ input, select, textarea {
 			-ms-transition: all .25s ease-in-out;
 			transition: all .25s ease-in-out;
 			display: block;
-			color: #eee;
+			color: #F2F2F2;
 			color: rgba(255, 255, 255, 0.75);
 			text-transform: uppercase;
 			text-decoration: none;
@@ -2185,7 +2185,7 @@ input, select, textarea {
 			}
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 /* Intro */
@@ -2202,7 +2202,7 @@ input, select, textarea {
 
 		#intro p.style2 {
 			font-weight: 700;
-			color: #fff;
+			color: #f2f2f2;
 			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 			font-size: 2.75em;
@@ -2240,7 +2240,7 @@ input, select, textarea {
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #F29B30;
 			margin: 0 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
@@ -2251,7 +2251,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #282b34 url("images/overlay.png");
+		background: #222026 url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 		padding-bottom: 6em;
@@ -2262,7 +2262,7 @@ input, select, textarea {
 		}
 
 		#footer hr {
-			border-top-color: #333;
+			border-top-color: #222026;
 			border-top-color: rgba(255, 255, 255, 0.05);
 		}
 
@@ -2271,7 +2271,7 @@ input, select, textarea {
 		#footer form input[type="password"],
 		#footer form select,
 		#footer form textarea {
-			background: #ccc;
+			background: #F2F2F2;
 			box-shadow: none;
 		}
 
@@ -2318,7 +2318,7 @@ input, select, textarea {
 			}
 
 		#footer .title {
-			background: #282b34 url("images/overlay.png");
+			background: #222026 url("images/overlay.png");
 			color: #eee;
 		}
 
@@ -2345,7 +2345,7 @@ input, select, textarea {
 			}
 
 			#footer .feature-list h3:before {
-				background: #3d4249 url("images/overlay.png");
+				background: #222026 url("images/overlay.png");
 			}
 
 /* Copyright */
@@ -2371,7 +2371,7 @@ input, select, textarea {
 				display: inline-block;
 				margin-left: 1em;
 				padding-left: 1em;
-				border-left: solid 1px #333;
+				border-left: solid 1px #222026;
 				border-left-color: rgba(255, 255, 255, 0.05);
 			}
 
@@ -2641,7 +2641,7 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #242730 url("images/overlay.png");
+				background: #222026 url("images/overlay.png");
 				box-shadow: inset -3px 0px 4px 0px rgba(0, 0, 0, 0.1);
 			}
 
@@ -2953,3 +2953,114 @@ input, select, textarea {
 						}
 
 	}
+
+/** SLIDESHOW **/
+
+* {
+	box-sizing: border-box
+}
+
+body {
+	font-family: Verdana, sans-serif; margin:0
+}
+
+.mySlides {
+	display: none
+}
+
+img {
+	vertical-align: middle;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
