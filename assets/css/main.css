@@ -1435,7 +1435,7 @@ input, select, textarea {
 
 	section,
 	article {
-		margin: 0 0 4em 0;
+		margin: 0 0 0 0;
 	}
 
 	section > :last-child,
@@ -1947,7 +1947,7 @@ input, select, textarea {
 			display: block;
 			font-weight: 700;
 			letter-spacing: 0.25em;
-			font-size: 0.9em;
+			font-size: 1.3em;
 			width: 25em;
 			height: 3.25em;
 			top: -3.25em;
@@ -2570,7 +2570,7 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 44px;
+				height: 48px;
 				left: 0;
 				position: fixed;
 				top: 0;
@@ -2825,7 +2825,7 @@ input, select, textarea {
 			}
 
 				.wrapper .title {
-					font-size: 0.9em;
+					font-size: 2em;
 					width: 18em;
 					height: 2.5em;
 					top: -2.5em;
